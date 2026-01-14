@@ -1,0 +1,106 @@
+# internal - Internal domains (usually empty, user-specific)
+*linux.do
+
+# trusted - Trusted external domains
+*.zhile.io
+*.fuclaude.com
+*.linuxdo.org
+*.deeplx.org
+*.idcflare.com
+*.oaifree.com
+*.oaipro.com
+*.uasm.com
+t.me/linux_do_channel
+github.com/linux-do/*
+
+# risky - Potentially risky domains (URL shorteners, etc.)
+bit.ly
+tinyurl.com
+t.co
+goo.gl
+ow.ly
+buff.ly
+adf.ly
+short.link
+*.short.link
+tiny.cc
+is.gd
+cli.gs
+pic.gd
+DwarfURL.com
+yfrog.com
+migre.me
+ff.im
+tiny.pl
+url4.eu
+tr.im
+twit.ac
+su.pr
+twurl.nl
+snipurl.com
+BudURL.com
+short.to
+ping.fm
+Digg.com
+post.ly
+Just.as
+bkite.com
+snipr.com
+fic.kr
+loopt.us
+doiop.com
+twitthis.com
+htxt.it
+AltURL.com
+RedirX.com
+DigBig.com
+short.ie
+u.mavrev.com
+kl.am
+wp.me
+rubyurl.com
+om.ly
+to.ly
+bit.do
+lnkd.in
+db.tt
+qr.ae
+adf.ly
+bitly.com
+cur.lv
+ow.ly
+ity.im
+q.gs
+po.st
+bc.vc
+twitthis.com
+u.to
+j.mp
+buzurl.com
+cutt.us
+u.bb
+yourls.org
+x.co
+prettylinkpro.com
+scrnch.me
+filoops.info
+vzturl.com
+qr.net
+1url.com
+tweez.me
+v.gd
+tr.im
+link.zip
+
+# danger - Dangerous domains (phishing, malware)
+# Add known phishing and malware sites here
+# Example entries (replace with real threats):
+# known-phishing-site.com
+# malware-example.com
+# fake-login-page.com
+
+# blocked - Completely blocked domains
+# Add spam and unwanted content domains here
+# Example entries (replace with real spam sites):
+# spam-site.com
+# unwanted-content.com
